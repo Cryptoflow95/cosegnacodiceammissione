@@ -1,0 +1,91 @@
+.sfondo{
+  box-sizing: border-box;
+  background-image: url(sfondo.png);
+  background-size: cover;
+
+}
+
+nav{
+  background-color: #00FF00;
+  text-align: center;
+  height: 0.8cm;
+}
+nav span{
+  line-height:30px;
+  color: black;
+  background-color: white;
+  border: black solid 1px;
+  font-size: 3mm;
+}
+
+.logo{
+    width: 20%;
+    height: 20%;
+    margin-bottom: 1mm;
+    margin-left: 7.5cm;
+    margin-top: 1.3cm;
+}
+
+.titolo{
+  margin-top: 1px;
+  margin-bottom: 1mm;
+  color: #00FF00;
+  margin-left: 5.7cm;
+  font-size: 6mm;
+}
+.rettangolotrasparente{
+  width: 22cm;
+  height: 16cm;
+  margin: auto;
+  border-radius: 10px;
+  background-color: rgba(1,1,1,0.6);
+}
+.impostazionedentrorettangolo{
+  width: 19cm;
+  margin: auto;
+}
+
+section{
+  height: 3cm;
+  margin-bottom: 0.3cm;
+  font-size: 4mm;
+}
+
+section h3 {
+  display: inline-block;
+  color: white;
+  margin-bottom: 0.1mm;
+
+}
+
+section p{
+  margin-top: 0.1mm;
+  margin-bottom: 0.1mm;
+  color: white;
+}
+
+.caricamento{
+  background-color: orange;
+  width: 8cm;
+  height: 0.5cm;
+  margin-top: 1px;
+  margin-bottom: 1mm;
+  border-radius: 5px;
+}
+
+.caricamento1{
+  background-color: darkgreen;
+  width: 12cm;
+  height: 0.5cm;
+  margin-top: 1px;
+  margin-bottom: 1mm;
+}
+
+.caricamento2{
+  background-color: red;
+  width: 4cm;
+  height: 0.5cm;
+  margin-top: 1px;
+  margin-bottom: 1mm;
+  border-radius: 5px;
+}
